@@ -42,10 +42,10 @@ Per Capita Comparisons: Identifying the industrial gap and efficiency trends bet
 ## 📂 Project Structure
 
 Global-Energy-Impact-Analysis
-│
-├── Project.ipynb        # Main analysis notebook
-├── world_data.csv       # Dataset used for analysis
-└── README.md            # Project documentation
+
+- Project.ipynb        # Main analysis notebook
+- world_data.csv       # Dataset used for analysis
+- README.md            # Project documentation
 
 ## 📁 How to Use
 
